@@ -72,3 +72,8 @@ More details in [Postman Collection](Bravo-challenge.postman_collection.json).
 ```bash
 bash up_application.sh
 ```
+
+## Nex steps:
+ - Deploy in heroku
+ - code climate
+ - tests
